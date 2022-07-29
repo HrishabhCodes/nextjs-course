@@ -8,8 +8,8 @@ const Home = () => {
         <a>Users</a>
       </Link>
       <br />
-      <Link href="/posts">
-        <a>Posts</a>
+      <Link href="/products">
+        <a>Products</a>
       </Link>
     </>
   );
